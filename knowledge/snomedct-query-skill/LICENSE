@@ -1,0 +1,59 @@
+Static skill package for SNOMEDCT
+Copyright (c) project contributors.
+
+TIET AI SKILL LICENSE  
+Version 1.0 – Based on the MIT License
+
+Copyright (c) 2026 Tiet AI SL
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the "Software"),
+including the SKILL.md package and related assets, to deal in the Software
+without restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software, subject to the following conditions:
+
+1. Attribution  
+All copies or substantial portions of the Software, including modified
+versions or derivative works, must include clear attribution to Tiet AI SL
+as the original author of the Software.
+
+2. License Notice  
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+3. No Warranty  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+4. Limitation of Liability  
+IN NO EVENT SHALL TIET AI SL OR ITS CONTRIBUTORS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. AI System Disclaimer  
+The Software may be used with artificial intelligence systems, automated
+agents, or language models. Outputs produced by such systems may contain
+inaccuracies, incomplete information, or unintended results. Tiet AI SL does
+not guarantee the accuracy, reliability, or suitability of any outputs
+generated using the Software.
+
+6. Data and Knowledge Source Disclaimer  
+The Software may query or interact with knowledge graphs, semantic layers,
+external datasets, or automated information systems. Tiet AI SL makes no
+representations or warranties regarding the correctness, completeness, or
+reliability of any information retrieved or generated through these systems.
+
+7. Medical and Healthcare Disclaimer  
+If the Software is used with medical vocabularies, clinical ontologies,
+healthcare datasets, or biomedical knowledge graphs, the outputs must not be
+interpreted as medical advice, diagnosis, or treatment recommendations. The
+Software is not a medical device and must not be used as the basis for
+clinical decisions.
+
+8. User Responsibility  
+Users of the Software are solely responsible for evaluating the suitability
+of the Software for their intended purposes and for any decisions, actions,
+or consequences arising from its use.
