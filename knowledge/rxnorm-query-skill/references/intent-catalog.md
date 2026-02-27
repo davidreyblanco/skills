@@ -1,5 +1,6 @@
 # Intent Catalog: RxNorm
 
+{% if intent_sections %}
 ## Summary
 - `rxnorm.code_lookup`: Resolve an RXCUI or medication term to RxNorm concepts and canonical names.
 - `rxnorm.drug_composition`: Return ingredient, dose form, and tradename links for an RxNorm drug concept.
@@ -81,3 +82,7 @@ LIMIT $limit
 - `targetRxcui`: `string`
 - `targetTerm`: `string`
 - `targetTty`: `string`
+
+{% else %}
+No intents defined in the semantic layer.
+{% endif %}

@@ -1,5 +1,6 @@
 # Intent Catalog: CIE10ES
 
+{% if intent_sections %}
 ## Summary
 - `cie10es.code_description`: Return CIE10-ES code details and preferred descriptions for a disease concept.
 - `cie10es.neoplasia_behavior_site`: Retrieve neoplasia behavior and linked anatomic disease location context in CIE10-ES.
@@ -79,3 +80,7 @@ LIMIT $limit
 - `diseaseTerm`: `string`
 - `neoplasmCode`: `string`
 - `neoplasmTerm`: `string`
+
+{% else %}
+No intents defined in the semantic layer.
+{% endif %}

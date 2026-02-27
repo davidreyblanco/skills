@@ -1,5 +1,6 @@
 # Intent Catalog: SNOMEDCT
 
+{% if intent_sections %}
 ## Summary
 - `concept.description`: Return concept descriptions (FSN, preferred term, synonyms) for a given concept.
 - `disease.anatomic_site_laterality`: Return finding site and laterality qualifiers for a disease concept.
@@ -186,3 +187,7 @@ LIMIT $limit
 - `procedureConceptId`: `string`
 - `siteConceptId`: `string`
 - `siteTerm`: `string`
+
+{% else %}
+No intents defined in the semantic layer.
+{% endif %}
