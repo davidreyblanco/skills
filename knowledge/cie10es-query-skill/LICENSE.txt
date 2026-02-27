@@ -1,0 +1,6 @@
+Static skill package for CIE10ES
+Copyright (c) project contributors.
+
+This package is generated from repository semantic-layer metadata and intended for internal or authorized use.
+No third-party terminology datasets are redistributed by this package.
+Use of any underlying clinical terminology (for example SNOMED CT) must comply with its original license terms.
